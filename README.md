@@ -1,4 +1,4 @@
-### Algorithm Visualizer - Interactive Educational Platform
+### VisuAlgorithm- Interactive Educational Platform
 
 ## Project Overview
 
