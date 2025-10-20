@@ -3,7 +3,7 @@
 ## Project Overview
 
 A sophisticated, full-stack web application that provides interactive visualizations for fundamental computer science algorithms, designed to enhance learning through step-by-step animated demonstrations. The platform combines modern web technologies with intuitive user experience design to make complex algorithms accessible and engaging.
-
+**🔗 Live Demo:** [https://visualgorithm-proj.vercel.app](https://visualgorithm-proj.vercel.app)
 ## Core Features & Functionality
 
 ### Algorithm Implementations
